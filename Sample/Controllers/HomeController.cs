@@ -17,7 +17,7 @@ namespace Sample.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page new.";
+            ViewData["Message"] = "Your application description page #51.";
 
             return View();
         }
